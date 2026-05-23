@@ -9,5 +9,14 @@ WHERE id in (
 	)
 );
 
--- TODO: inner join
+-- inner join
+SELECT s.*
+FROM c_student s
+INNER JOIN c_student_and_class sc ON s.id = sc.stu_id
+INNER JOIN c_class c ON sc.cls_id = c.id
+WHERE c.c_name = 'chuer2ban';
+
+-- create tables
+
+
 

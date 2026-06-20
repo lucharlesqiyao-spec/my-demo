@@ -1,0 +1,11 @@
+{
+  "name": "Charles",
+  "age": 1,
+  "city": "上海",
+  "hobbies": [
+    "编程",
+    "聊天",
+    "学习"
+  ],
+  "is_active": true
+}

@@ -38,8 +38,31 @@ jory: 100
 - end
 Lock - dead Lock
 
-# 
-1. json file read/write
-2. homework: move sql files to project and commit to github.
+# 202605
+1. json file read/write 
+2. homework: move sql files to project and commit to github. - done
 
+# 20260524
+content:
+1. file system
+2. os history
+homework:
+1. read and run the code.
+2. commit and push code to repo.
 
+# 20260530
+1. html intro
+2. json file write
+
+homework:
+1. read json code.
+
+# 20260613
+Html Intro
+TODO: css, js
+
+homework:
+1. install vscode
+2. and create a simple html page.
+
+student system html page.

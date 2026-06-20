@@ -9,7 +9,7 @@ def case_write_json_file():
         "hobbies": ["编程", "聊天", "学习"],
         "is_active": True
     }
-
+    # str_a = json.dumps(data, ensure_ascii=False)
     # 将数据写入 json 文件
     with open('user_info.json', 'w', encoding='utf-8') as f:
         # indent=4 表示缩进4个空格，让文件排版更好看（否则所有数据会挤在一行）
@@ -35,5 +35,5 @@ def case_load_json_file():
 
 
 if __name__ == '__main__':
-    # case_write_json_file()
+    case_write_json_file()
     # case_load_json_file()

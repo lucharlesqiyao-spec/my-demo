@@ -62,7 +62,24 @@ Html Intro
 TODO: css, js
 
 homework:
-1. install vscode
-2. and create a simple html page.
+1. install vscode - done
+2. and create a simple html page. -- pending
 
-student system html page.
+# 20260620
+vscode
+table 
+
+homework:
+1. student table
+
+#  20260711
+1. bug fix: href, code format
+2. new form page.
+3. python code.
+
+#  20260718
+1. add alert on the button of the form page
+
+# 20260802
+1. form verify by javascript
+
